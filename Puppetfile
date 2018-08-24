@@ -32,6 +32,10 @@ mod 'saz-rsyslog'
 mod 'puppetlabs-xinetd'
 mod 'wazuh-ossec'
 mod 'puppetlabs-stdlib'
+mod 'puppetlabs-apache'
+mod 'puppetlabs-mysql'
+mod 'mayflower-php'
+mod 'puppetlabs-concat'
 
 # A module from Github pre-packaged tarball
 # mod 'puppetlabs-apache', '0.6.0', :github_tarball => 'puppetlabs/puppetlabs-apache'
