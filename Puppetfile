@@ -36,6 +36,7 @@ mod 'puppetlabs-apache'
 mod 'puppetlabs-mysql'
 mod 'mayflower-php'
 mod 'puppetlabs-concat'
+mod 'swizzley88-cis', '0.1.0'
 
 # A module from Github pre-packaged tarball
 # mod 'puppetlabs-apache', '0.6.0', :github_tarball => 'puppetlabs/puppetlabs-apache'
